@@ -23,7 +23,7 @@ int main() {
     }
 
     // average grade
-    float sum;
+    float sum=0;
     for (int i=0; i<numStudents; i++) {
         sum+= grades[i];
     }
