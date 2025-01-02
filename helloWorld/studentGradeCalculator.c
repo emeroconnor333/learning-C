@@ -5,7 +5,6 @@ int main() {
     printf("Number of students: ");
     int numStudents;
     scanf("%d", &numStudents);
-    printf("There are %d students.\n", numStudents);
 
     // enter grades
     float grades[numStudents];
